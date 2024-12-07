@@ -1,2 +1,2 @@
 # demo
-This is a demo folder for github
+This is a demo folder for github.
